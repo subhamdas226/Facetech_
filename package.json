@@ -1,0 +1,18 @@
+{
+  "name": "factech",
+  "version": "1.0.0",
+  "description": "problem statement",
+  "main": "studentMarks.js",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "subham das",
+  "license": "ISC"
+}
